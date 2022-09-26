@@ -10,7 +10,7 @@ sobre esses assuntos são divididos em quatro partes ou módulos:
 * 🔗 [Parte 2](https://github.com/nathaliagomes/alura-html5-css3/tree/main/Parte%202%20-%20Posicionamento%2C%20listas%20e%20navegacao)
 * 🔗 [Parte 3](https://github.com/nathaliagomes/alura-html5-css3/tree/main/Parte%203%20Trabalhando%20com%20formularios%20e%20tabelas)
 
-Em cada módulo, diversos conceitos fundamentais de HTML5 e CSS3 foram aprendidos. Nessa última parte, os objetivos foram:
+Em cada uma, diversos conceitos fundamentais de HTML5 e CSS3 foram aprendidos. Nessa última parte, os objetivos foram:
 
 * Importar conteúdo externo na página HTML, como fontes, vídeos e mapas;
 * Conhecer pseudo-classes e pseudo-elementos;
