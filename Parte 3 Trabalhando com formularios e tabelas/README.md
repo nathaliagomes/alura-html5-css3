@@ -1,9 +1,9 @@
 # 🚀 Curso de HTML5 e CSS3 parte 3
 ![preview](https://github.com/nathaliagomes/alura-html5-css3-parte3/blob/main/.github/html5-css3-parte3-banner.PNG)
 
-## 📋 Sobre o projeto
+## 📋 Sobre o curso
 
-Os cursos da [Alura](https://www.alura.com.br/) sobre HTML e CSS são divididos em quatro módulos. Nessa terceira parte, os objetivos são:
+Nessa terceira parte, os objetivos são:
 
 * Criar um formulário
 * Trabalhar com campos para celulares
