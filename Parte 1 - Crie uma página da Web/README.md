@@ -1,9 +1,9 @@
 # 🚀 Curso de HTML5 e CSS3 parte 1
 ![preview](https://github.com/nathaliagomes/alura-html5-css3-primeiros-passos/blob/main/.github/html5_css3_parte1_banner.PNG)
 
-## 📋 Sobre o projeto
+## 📋 Sobre o curso
 
-Os cursos da [Alura](https://www.alura.com.br/) sobre HTML e CSS são divididos em quatro módulos. Nessa primeira parte, os objetivos são:
+Nessa primeira parte, os objetivos são:
 
 * Aprender o que é o HTML e o CSS
 * Entender a estrutura básica de um arquivo HTML
@@ -11,8 +11,7 @@ Os cursos da [Alura](https://www.alura.com.br/) sobre HTML e CSS são divididos 
 * Aprender a definir estilos para elementos usando o CSS
 * Desenvolver um página Web
 
-Para isso, foi criada uma página da Barbearia Alura, onde adicionamos textos, imagens, blocos de conteúdo e listas de informações. Além disso, aprendemos a 
-mudar as cores, espaçamento e posicionamento de elementos utilizando HTML e CSS.
+Para isso, foi criada a página principal da Barbearia Alura, onde adicionamos textos, imagens, blocos de conteúdo e listas de informações. 
 
 ## 📚 O que aprendemos
 
