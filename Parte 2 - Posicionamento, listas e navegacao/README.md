@@ -1,9 +1,9 @@
 # 🚀 Curso de HTML5 e CSS3 parte 2
 ![preview](https://github.com/nathaliagomes/alura-html5-css3-parte2/blob/main/.github/html5_css3_parte2_banner.png)
 
-## 📋 Sobre o projeto
+## 📋 Sobre o curso
 
-Os cursos da [Alura](https://www.alura.com.br/) sobre HTML e CSS são divididos em quatro módulos. Nessa segunda parte, os objetivos são:
+Nessa segunda parte, os objetivos são:
 
 * Aprender a estrutura da página HTML
 * Navegar entre páginas web
