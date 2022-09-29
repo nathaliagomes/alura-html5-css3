@@ -1,5 +1,5 @@
 # 🚀 Curso de HTML5 e CSS3 parte 1
-![preview](https://github.com/nathaliagomes/alura-html5-css3-primeiros-passos/blob/main/.github/html5_css3_parte1_banner.PNG)
+![preview](https://github.com/nathaliagomes/alura-html5-css3/blob/main/Parte%201%20-%20Crie%20uma%20p%C3%A1gina%20da%20Web/.github/html5_css3_parte1_banner.PNG)
 
 ## 📋 Sobre o curso
 
